@@ -1,0 +1,16 @@
+id: ID5FCF98D
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:29:34.059351
+last_modified: 2023-02-10 00:29:34.059499
+source_metadata:
+  title: 'Nāgārjuna: Mūlamadhyamakakārikā'
+  language: en
+bases:
+  '1018':
+    base_file: 1018.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
